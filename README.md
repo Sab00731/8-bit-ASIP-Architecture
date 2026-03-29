@@ -204,4 +204,4 @@ The beauty of this is that the entire thing is small enough to understand and sh
 
 ---
 
-If you went through this and understood even a small part of how a CPU actually works, then this project has done its job. !
+If you went through this and understood even a small part of how a CPU actually works, then this project has done its job !
